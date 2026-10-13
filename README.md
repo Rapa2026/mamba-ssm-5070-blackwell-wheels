@@ -16,7 +16,7 @@ Built after 3 days of pain, `cp310 vs cp312` errors, `torch 2.14.1` trying to nu
 - Causal-Conv1d: 1.7.0
 - Built with the help of Meta AI
   
-http://torch.Size(2,128,64)
+torch.Size(2,128,64)
 MAMBA FORWARD OK ON 5070[2][128][64]
 
 The Wheels (in Releases)
