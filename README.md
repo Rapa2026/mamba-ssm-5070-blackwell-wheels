@@ -14,3 +14,4 @@ Built after 3 days of pain, `cp310 vs cp312` errors, `torch 2.14.1` trying to nu
 - WSL2 + Ubuntu
 - Mamba-SSM: 2.3.2.post1
 - Causal-Conv1d: 1.7.0
+- Built with the help of Meta AI
